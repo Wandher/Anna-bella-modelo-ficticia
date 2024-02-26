@@ -1,0 +1,53 @@
+
+body{
+    font-family: sans-serif;
+    text-align: left;
+    background: #d2d2c1 url(img/fundo.png);
+}
+
+/*Conteudo*/
+#conteudo{
+    width: 900px;
+}
+/*Conteudo*/
+
+/*Navegação*/
+.navegacao{
+    text-align: left;
+    padding: 18px;
+    font-weight: bolder;
+    background: #c5c5b2;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(13, 54, 100);
+}
+/*Navegação*/
+
+/*Informações*/
+.informacoes{
+    background-color: #e8e8d9;
+    padding: 10px;
+}
+
+.informacoes h4{
+    color: rgb(150, 150, 68);
+    font-size: 20px;
+}
+
+.informacoes img{
+    border: 10px solid #c3c3ae;
+}
+
+.contato{
+    padding: 10px;
+}
+/*Informações*/
+
+/*Rodapé*/
+.rodape{
+    text-align: center;
+    padding: 10px;
+}
+/*Rodapé*/
