@@ -46,7 +46,7 @@ a{
 /*Informações*/
 
 /*Rodapé*/
-.rodape{
+#rodape{
     text-align: center;
     padding: 10px;
 }
